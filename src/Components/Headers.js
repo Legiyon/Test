@@ -9,7 +9,7 @@ const Headers = () => {
 
       <nav className='space-x-5'>
         <NavLink className='hover:bg-pink-500' to=' add' >Popular movie</NavLink>
-        <NavLink to='add' className='hover:bg-pink-500' >Top Rated movie </NavLink>
+        <NavLink to='add' className='hover:bg-pink-500' >Top Rated movies lists </NavLink>
         <NavLink to='add' className='hover:bg-pink-500' >Upcominggg</NavLink>
       </nav>
 
